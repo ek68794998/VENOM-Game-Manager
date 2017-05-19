@@ -1,7 +1,7 @@
-#VENOM Game Manager (VGM)
+# VENOM Game Manager (VGM)
 As part of an ongoing effort to keep the classic 2002 game, [Command & Conquer: Renegade](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Renegade) fresh, exciting, and bug-free, VGM was created as a server-side utility to facilitate such goals.
 
-##Features
+## Features
 
 - Multiple game modes, including all-out war, sniper-only, and infantry-only
 - Crate boxes containing random effects (weapons, etc.)
@@ -23,7 +23,7 @@ As part of an ongoing effort to keep the classic 2002 game, [Command & Conquer: 
 - Players now drop weapon packs so that others can pick up more weapons
 - Lots of other small additions!
 
-##Anti-cheat and moderator tools
+## Anti-cheat and moderator tools
 
 - Some console commands and moderator tools mentioned above help serve this purpose
 - Blocks (and detects) bighead hack users
@@ -35,7 +35,7 @@ As part of an ongoing effort to keep the classic 2002 game, [Command & Conquer: 
 - Blocks users from crashing server using a connection exploit
 - The base of a primitive aimbot detector is found in the source, though this was never completed
 
-##Bug patches
+## Bug patches
 
 - Credits are now distributed to the team evenly during a Harvester unload, instead of in one lump sum
 - Obelisk will no longer fail at targeting objects due to them going out of sight for a split second
@@ -48,7 +48,7 @@ As part of an ongoing effort to keep the classic 2002 game, [Command & Conquer: 
 - Some minor console command fixes
 - Other minor fixes
 
-##Notes
+## Notes
 Due to the team-based nature of the development of VGM, some components (such as the Obelisk and Guard Tower fixes) have been omitted from the source code.
 
 This project was compiled using the `scripts-3.4.4` open-source base (formerly available from [SourceForge](http://sourceforge.net/projects/rentools/files/) prior to `scripts-4.0`).
